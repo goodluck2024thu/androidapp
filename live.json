@@ -11,31 +11,31 @@
     "date": "Mar 24",
     "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8238_small.png",
     "homeName": "Denmark",
-    "isLive": false,
+    "isLive": true,
     "time": "1:30 AM",
     "links":[
   {
    "type": "Vietname [ HD ]",
    "referer": "",
-   "link": ""
+   "link": "https://pull.niues.live/live/stream-921508_lhd.m3u8?auth_key=1711215726-0-0-cb0a16da5fe84efa21ed37402470470a"
   },
 
   {
     "type": "Vietnam  [ SD ]",
     "referer": "",
-    "link": ""
+    "link": "https://pull.niues.live/live/stream-921508_lsd.m3u8?auth_key=1711215726-0-0-e92d28ec2f8000dd4ead8f67b117228f"
    },
 
    {
     "type": "China  [ HD ]",
     "referer": "",
-    "link": ""
+    "link": "https://pull.juqihuo.com/live/stream-886731_lhd.m3u8?auth_key=1711215794-0-0-c0cfde12378e4ad13d2d9da07d11fb23"
    },
 
    {
     "type": "China  [ SD ]",
     "referer": "",
-    "link": ""
+    "link": "https://pull.juqihuo.com/live/stream-886731_lsd.m3u8?auth_key=1711215794-0-0-b955d0baeb555ca683b56c21eabbe6bd"
    }
              ]
   
@@ -49,31 +49,31 @@
     "date": "Mar 24",
     "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8491_small.png",
     "homeName": "England",
-    "isLive": false,
+    "isLive": true,
     "time": "1:30 AM",
     "links":[
   {
    "type": "Vietname [ HD ]",
    "referer": "",
-   "link": ""
+   "link": "https://pull.niur.live/live/stream-9912089_lhd.m3u8?txSecret=0ccde8e722d60deca62571ec0af1ec3c&txTime=65ff5a6d"
   },
 
   {
     "type": "Vietnam  [ SD ]",
     "referer": "",
-    "link": ""
+    "link": "https://pull.niur.live/live/stream-9912089_lsd.m3u8?txSecret=0971c7aea7bcb25a5fbca4a5a10dce21&txTime=65ff5a6d"
    },
 
    {
     "type": "China  [ HD ]",
     "referer": "",
-    "link": ""
+    "link": "https://pull.juqihuo.com/live/stream-746673_lhd.m3u8?auth_key=1711215914-0-0-6f1da86ab8630de4f27c024e07074ca"
    },
 
    {
     "type": "China  [ SD ]",
     "referer": "",
-    "link": ""
+    "link": "https://pull.juqihuo.com/live/stream-746673_lsd.m3u8?auth_key=1711215914-0-0-e9b93309ff5800ad657da1fd041f26b2"
    }
              ]
   
