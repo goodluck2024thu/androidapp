@@ -174,19 +174,19 @@
        "date": "Mar 27",
        "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8307_small.png",
        "homeName": "Syria",
-       "isLive": false,
+       "isLive": true,
        "time": "1:30 AM",
        "links":[
      {
       "type": "Vietname [ HD ]",
       "referer": "",
-      "link": ""
+      "link": "https://pull.juqihuo.com/live/stream-317957_lhd.m3u8?auth_key=1711482314-0-0-2d1e9a416db4c44dcdbc3880e7dce6f5"
      },
    
      {
        "type": "Vietnam  [ SD ]",
        "referer": "",
-       "link": ""
+       "link": "https://pull.juqihuo.com/live/stream-317957_lsd.m3u8?auth_key=1711482314-0-0-b5f088ce1eebef1f868a980ea5972d8e"
       },
    
       {
