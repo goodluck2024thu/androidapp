@@ -264,31 +264,31 @@
       "date": "Mar 31",
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9937_small.png",
       "homeName": "Brentford",
-      "isLive": false,
+      "isLive": true,
       "time": "2:30 AM",
       "links":[
     {
      "type": "Vietname [ HD ]",
      "referer": "",
-     "link": ""
+     "link": "https://pull.niues.live/live/stream-9912086_lhd.m3u8?auth_key=1711824788-0-0-2fc427bc9210c6fe46cc6c9c506028c3"
     },
   
     {
       "type": "Vietnam  [ SD ]",
       "referer": "",
-      "link": ""
+      "link": "https://pull.niues.live/live/stream-9912086_lsd.m3u8?auth_key=1711824788-0-0-a4d29c9ab4cd5cbd670a7313d43f17cc"
      },
   
      {
       "type": "China  [ HD ]",
       "referer": "",
-      "link": ""
+      "link": "https://pull.juqihuo.com/live/stream-2376781_lhd.m3u8?auth_key=1711824975-0-0-be2e0d80519e45ddb98bc930feebf035"
      },
   
      {
       "type": "China  [ SD ]",
       "referer": "",
-      "link": ""
+      "link": "https://pull.juqihuo.com/live/stream-2376781_lsd.m3u8?auth_key=1711824975-0-0-7aa696b34831f776659f3774821cde19"
      }
                ]
     
