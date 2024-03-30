@@ -346,31 +346,31 @@
       "date": "Mar 30",
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8305_small.png",
       "homeName": "Getafe",
-      "isLive": false,
+      "isLive": true,
       "time": "7:30 PM",
       "links":[
     {
      "type": "Vietname [ HD ]",
      "referer": "",
-     "link": ""
+     "link": "https://pull.niues.live/live/stream-434982_lhd.m3u8?auth_key=1711801928-0-0-467b081eb390791db47ea40bc8a46727"
     },
   
     {
       "type": "Vietnam  [ SD ]",
       "referer": "",
-      "link": ""
+      "link": "https://pull.niues.live/live/stream-434982_lsd.m3u8?auth_key=1711801928-0-0-5342d8ae1dfe7831d410c7e60010d9a2"
      },
   
      {
       "type": "China  [ HD ]",
       "referer": "",
-      "link": ""
+      "link": "https://pull.juqihuo.com/live/stream-534857_lhd.m3u8?auth_key=1711801995-0-0-3248abfd16eadfabfd3305195c66c8e5"
      },
   
      {
       "type": "China  [ SD ]",
       "referer": "",
-      "link": ""
+      "link": "https://pull.juqihuo.com/live/stream-534857_lsd.m3u8?auth_key=1711801995-0-0-0f4d7ff7189d07d6580da5e824b8a6c7"
      }
                ]
     
