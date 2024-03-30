@@ -418,31 +418,31 @@
       "date": "Mar 31",
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10267_small.png",
       "homeName": "Valencia",
-      "isLive": false,
+      "isLive": true,
       "time": "12:00 AM",
       "links":[
     {
      "type": "Vietname [ HD ]",
      "referer": "",
-     "link": ""
+     "link": "https://pull.niues.live/live/stream-416420_lhd.m3u8?auth_key=1711821728-0-0-024f372582f7dda43fae451a138fea04"
     },
   
     {
       "type": "Vietnam  [ SD ]",
       "referer": "",
-      "link": ""
+      "link": "https://pull.niues.live/live/stream-416420_lsd.m3u8?auth_key=1711821728-0-0-8f138c170efc2e479c2fcf4d0cd71f7e"
      },
   
      {
       "type": "China  [ HD ]",
       "referer": "",
-      "link": ""
+      "link": "https://pull.juqihuo.com/live/stream-743404_lhd.m3u8?auth_key=1711821795-0-0-1E2KEoXp9m6NHa9LowxWgVDGrDrbPeyxXq"
      },
   
      {
       "type": "China  [ SD ]",
       "referer": "",
-      "link": ""
+      "link": "https://pull.juqihuo.com/live/stream-743404_lsd.m3u8?auth_key=1711821795-0-0-8c14f09be70b1eebcdf1d2b36cf92d4a"
      }
                ]
     
@@ -873,31 +873,31 @@
           "date": "Mar 31",
           "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9823_small.png",
           "homeName": "Bayern München",
-          "isLive": false,
+          "isLive": true,
           "time": "12:00 AM",
           "links":[
         {
          "type": "Vietname [ HD ]",
          "referer": "",
-         "link": ""
+         "link": "https://pull.niur.live/live/stream-9912089_lhd.m3u8?txSecret=c6dc9303451cf0153605033bc34ce183&txTime=66089b1c"
         },
       
         {
           "type": "Vietnam  [ SD ]",
           "referer": "",
-          "link": ""
+          "link": "https://pull.niur.live/live/stream-9912089_lsd.m3u8?txSecret=1E2KEoXp9m6NHa9LowxWgVDGrDrbPeyxXq&txTime=66089b1c"
          },
       
          {
           "type": "China  [ HD ]",
           "referer": "",
-          "link": ""
+          "link": "https://pull.juqihuo.com/live/stream-689863_lhd.m3u8?auth_key=1711822215-0-0-1E2KEoXp9m6NHa9LowxWgVDGrDrbPeyxXq"
          },
       
          {
           "type": "China  [ SD ]",
           "referer": "",
-          "link": ""
+          "link": "https://pull.juqihuo.com/live/stream-689863_lsd.m3u8?auth_key=1711822215-0-0-5963aac81ce33eee422e16ff7a35178e"
          }
                    ]
         
