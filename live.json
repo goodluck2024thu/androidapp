@@ -455,7 +455,7 @@
       "date": "Mar 31",
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
       "homeName": "Barcelona",
-      "isLive": false,
+      "isLive": true,
       "time": "2:30 AM",
       "links":[
     {
@@ -473,13 +473,13 @@
      {
       "type": "China  [ HD ]",
       "referer": "",
-      "link": ""
+      "link": "https://pull.juqihuo.com/live/stream-956896_lhd.m3u8?auth_key=1711825515-0-0-75032903ba322d92d3eee67dc9920165"
      },
   
      {
       "type": "China  [ SD ]",
       "referer": "",
-      "link": ""
+      "link": "https://pull.juqihuo.com/live/stream-956896_lsd.m3u8?auth_key=1711825515-0-0-4ee26443332e7fd87e3a3bbf1f4fd1b6"
      }
                ]
     
