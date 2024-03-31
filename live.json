@@ -247,31 +247,31 @@
            "date": "Mar 31",
            "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8406_small.png",
            "homeName": "FC Augsburg",
-           "isLive": false,
+           "isLive": true,
            "time": "8:00 PM",
            "links":[
          {
           "type": "Vietname [ HD ]",
           "referer": "",
-          "link": ""
+          "link": "https://pull.niur.live/live/stream-342075_lhd.m3u8?txSecret=13fb57af0a8ee16407f91c1104018890&txTime=6609b4d5"
          },
        
          {
            "type": "Vietnam  [ SD ]",
            "referer": "",
-           "link": ""
+           "link": "https://pull.niur.live/live/stream-342075_lsd.m3u8?txSecret=eb04fb9493de1ca9ea855cb016121914&txTime=6609b4d5"
           },
        
           {
            "type": "China  [ HD ]",
            "referer": "",
-           "link": ""
+           "link": "https://pull.juqihuo.com/live/stream-3378908_lhd.m3u8?auth_key=1711894215-0-0-694866dda48002bbdfe49037e66cbf07"
           },
        
           {
            "type": "China  [ SD ]",
            "referer": "",
-           "link": ""
+           "link": "https://pull.juqihuo.com/live/stream-3378908_lsd.m3u8?auth_key=1711894215-0-0-34cb2bdf368b8efb2d2de13a56a9e815"
           }
                     ]
          
@@ -400,31 +400,31 @@
             "date": "Mar 31",
             "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8311_small.png",
             "homeName": "Clermont Foot",
-            "isLive": false,
+            "isLive": true,
             "time": "7:30 PM",
             "links":[
           {
            "type": "Vietname [ HD ]",
            "referer": "",
-           "link": ""
+           "link": "https://pull.niur.live/live/stream-9912003_lhd.m3u8?txSecret=df5a877c2b29c3ed67bdec0c6fcb8f40&txTime=6609b54d"
           },
         
           {
             "type": "Vietnam  [ SD ]",
             "referer": "",
-            "link": ""
+            "link": "https://pull.niur.live/live/stream-9912003_lsd.m3u8?txSecret=d8d187adefd3808398a81eccb0b860e1&txTime=6609b54d"
            },
         
            {
             "type": "China  [ HD ]",
             "referer": "",
-            "link": ""
+            "link": "https://pull.juqihuo.com/live/stream-486498_lhd.m3u8?auth_key=1711894336-0-0-19831668a335b057b3971a212cbffd69"
            },
         
            {
             "type": "China  [ SD ]",
             "referer": "",
-            "link": ""
+            "link": "https://pull.juqihuo.com/live/stream-486498_lsd.m3u8?auth_key=1711894336-0-0-ff5f053828e0a3e8811ac5832efa9ddc"
            }
                      ]
           
@@ -436,31 +436,31 @@
             "date": "Mar 31",
             "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9746_small.png",
             "homeName": "Le Havre",
-            "isLive": false,
+            "isLive": true,
             "time": "7:30 PM",
             "links":[
           {
            "type": "Vietname [ HD ]",
            "referer": "",
-           "link": ""
+           "link": "https://pull.niur.live/live/stream-372746_lhd.m3u8?txSecret=b088e5b9998bff6bfa24deae14e69ba4&txTime=6609b5c5"
           },
         
           {
             "type": "Vietnam  [ SD ]",
             "referer": "",
-            "link": ""
+            "link": "https://pull.niur.live/live/stream-372746_lsd.m3u8?txSecret=d35fa72d69ef02e162c67b51a4f4e51a&txTime=6609b5c5"
            },
         
            {
             "type": "China  [ HD ]",
             "referer": "",
-            "link": ""
+            "link": "https://pull.juqihuo.com/live/stream-752338_lhd.m3u8?auth_key=1711894456-0-0-2bfb6c4b921a7796d91cf7c4384cf885"
            },
         
            {
             "type": "China  [ SD ]",
             "referer": "",
-            "link": ""
+            "link": "https://pull.juqihuo.com/live/stream-752338_lsd.m3u8?auth_key=1711894456-0-0-fe07290b147337daa9c65ba09e00e44d"
            }
                      ]
           
@@ -472,31 +472,31 @@
             "date": "Mar 31",
             "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9831_small.png",
             "homeName": "Nice",
-            "isLive": false,
+            "isLive": true,
             "time": "7:30 PM",
             "links":[
           {
            "type": "Vietname [ HD ]",
            "referer": "",
-           "link": ""
+           "link": "https://pull.niues.live/live/stream-9912025_lhd.m3u8?auth_key=1711894509-0-0-c3ab3eecceb345364433dee48dbb9f08"
           },
         
           {
             "type": "Vietnam  [ SD ]",
             "referer": "",
-            "link": ""
+            "link": "https://pull.niues.live/live/stream-9912025_lsd.m3u8?auth_key=1711894509-0-0-620a5df5f0a27f97ae71c3e6d28a56be"
            },
         
            {
             "type": "China  [ HD ]",
             "referer": "",
-            "link": ""
+            "link": "https://pull.juqihuo.com/live/stream-765648_lhd.m3u8?auth_key=1711894516-0-0-1aa558e3860457df36ed6b21b6d70af"
            },
         
            {
             "type": "China  [ SD ]",
             "referer": "",
-            "link": ""
+            "link": "https://pull.juqihuo.com/live/stream-765648_lsd.m3u8?auth_key=1711894516-0-0-6548726b0eadd014600fa5eca7cc728a"
            }
                      ]
           
