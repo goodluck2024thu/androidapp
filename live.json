@@ -47,31 +47,31 @@
       "date": "Mar 31",
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
       "homeName": "Manchester City",
-      "isLive": false,
+      "isLive": true,
       "time": "7:00 PM",
       "links":[
     {
      "type": "Vietname [ HD ]",
      "referer": "",
-     "link": ""
+     "link": "https://pull.niur.live/live/stream-9912060_lhd.m3u8?txSecret=55d16d2245d160f835b323b5937a0767&txTime=6609cb91"
     },
   
     {
       "type": "Vietnam  [ SD ]",
       "referer": "",
-      "link": ""
+      "link": "https://pull.niur.live/live/stream-9912060_lsd.m3u8?txSecret=0e68dc1e3dfa463ba313988d43eb2037&txTime=6609cb91"
      },
   
      {
       "type": "China  [ HD ]",
       "referer": "",
-      "link": ""
+      "link": "https://pull.juqihuo.com/live/stream-308116_lhd.m3u8?auth_key=1711900275-0-0-02bff4d431e469aa0aff9535ff7a80db"
      },
   
      {
       "type": "China  [ SD ]",
       "referer": "",
-      "link": ""
+      "link": "https://pull.juqihuo.com/live/stream-308116_lsd.m3u8?auth_key=1711900275-0-0-cb9d04a60ff7ba8d744cb263a2188f8d"
      }
                ]
     
