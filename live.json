@@ -1,136 +1,66 @@
 [
 
-  {
-   "leagueName" : "Premier League Round 30",
-   "leagueLogo" : "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/47.png",
+  
+{
+  "leagueName" : "Saudi Pro League Round 26",
+  "leagueLogo" : "https://images.fotmob.com/image_resources/logo/leaguelogo/536.png",
+  "matches" : [
+  
+   {
+     "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/101918_small.png",
+     "awayName": "Al Nassr FC",
+     "date": "April 3",
+     "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/150414_small.png",
+     "homeName": "Abha",
+     "isLive": false,
+     "time": "1:30 AM",
+     "links":[
+   {
+    "type": "Vietname [ HD ]",
+    "referer": "",
+    "link": ""
+   },
+ 
+   {
+     "type": "Vietnam  [ SD ]",
+     "referer": "",
+     "link": ""
+    },
+ 
+    {
+     "type": "China  [ HD ]",
+     "referer": "",
+     "link": ""
+    },
+ 
+    {
+     "type": "China  [ SD ]",
+     "referer": "",
+     "link": ""
+    }
+              ]
+   
+   }
+      
+      ]
+      
+  },
+
+
+
+{
+   "leagueName" : "Premier League Round 31",
+   "leagueLogo" : "https://images.fotmob.com/image_resources/logo/leaguelogo/47.png",
    "matches" : [
    
     {
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10204_small.png",
-      "awayName": "Brighton",
-      "date": "Mar 31",
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
-      "homeName": "Liverpool",
-      "isLive": true,
-      "time": "7:00 PM",
-      "links":[
-    {
-     "type": "Vietname [ HD ]",
-     "referer": "",
-     "link": "https://pull.niur.live/live/stream-9912090_lhd.m3u8?txSecret=2efb8d3ceed4f8a0968389bc20ecdc60&txTime=6609b2b9"
-    },
-  
-    {
-      "type": "Vietnam  [ SD ]",
-      "referer": "",
-      "link": "https://pull.niur.live/live/stream-9912090_lsd.m3u8?txSecret=a365ff9a0464bfe1c6d3210e81d63988&txTime=6609b2b9"
-     },
-  
-     {
-      "type": "China  [ HD ]",
-      "referer": "",
-      "link": "https://pull.juqihuo.com/live/stream-308116_lhd.m3u8?auth_key=1711893855-0-0-66f82d327c28f9c720db84c7160c978c"
-     },
-  
-     {
-      "type": "China  [ SD ]",
-      "referer": "",
-      "link": "https://pull.juqihuo.com/live/stream-308116_lsd.m3u8?auth_key=1711893855-0-0-7c7d4df6d26123fe2742639efc141d98"
-     }
-               ]
-    
-    },
-
-    {
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
-      "awayName": "Arsenal",
-      "date": "Mar 31",
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
-      "homeName": "Manchester City",
-      "isLive": true,
-      "time": "7:00 PM",
-      "links":[
-    {
-     "type": "Vietname [ HD ]",
-     "referer": "",
-     "link": "https://pull.niur.live/live/stream-9912060_lhd.m3u8?txSecret=55d16d2245d160f835b323b5937a0767&txTime=6609cb91"
-    },
-  
-    {
-      "type": "Vietnam  [ SD ]",
-      "referer": "",
-      "link": "https://pull.niur.live/live/stream-9912060_lsd.m3u8?txSecret=0e68dc1e3dfa463ba313988d43eb2037&txTime=6609cb91"
-     },
-  
-     {
-      "type": "China  [ HD ]",
-      "referer": "",
-      "link": "https://pull.juqihuo.com/live/stream-308116_lhd.m3u8?auth_key=1711900275-0-0-02bff4d431e469aa0aff9535ff7a80db"
-     },
-  
-     {
-      "type": "China  [ SD ]",
-      "referer": "",
-      "link": "https://pull.juqihuo.com/live/stream-308116_lsd.m3u8?auth_key=1711900275-0-0-cb9d04a60ff7ba8d744cb263a2188f8d"
-     }
-               ]
-    
-    }
-       
-       ]
-       
-   },
-  
-   {
-    "leagueName" : "LaLiga Round 30",
-    "leagueLogo" : "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/87.png",
-    "matches" : [
-    
-     {
-       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8661_small.png",
-       "awayName": "Rayo Vallecano",
-       "date": "Mar 31",
-       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9910_small.png",
-       "homeName": "Celta Vigo",
-       "isLive": true,
-       "time": "6:30 PM",
-       "links":[
-     {
-      "type": "Vietname [ HD ]",
-      "referer": "",
-      "link": "https://pull.niur.live/live/stream-273766_lhd.m3u8?txSecret=74ae86087a1c8d919d6688a05735bc6c&txTime=6609b421"
-     },
-   
-     {
-       "type": "Vietnam  [ SD ]",
-       "referer": "",
-       "link": "https://pull.niur.live/live/stream-273766_lsd.m3u8?txSecret=c27e95d2de8c19c47f1dd331c75d4b29&txTime=6609b421"
-      },
-   
-      {
-       "type": "China  [ HD ]",
-       "referer": "",
-       "link": "https://pull.juqihuo.com/live/stream-552917_lhd.m3u8?auth_key=1711894095-0-0-94e24b889a55f5ad8718a2859724d292"
-      },
-   
-      {
-       "type": "China  [ SD ]",
-       "referer": "",
-       "link": "https://pull.juqihuo.com/live/stream-552917_lsd.m3u8?auth_key=1711894095-0-0-08cafd266311b8d621a40bb7aee1e5d7"
-      }
-                ]
-     
-     },
-  
-  
-     {
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8603_small.png",
-      "awayName": "Real Betis",
-      "date": "Mar 31",
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/7732_small.png",
-      "homeName": "Girona",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8668_small.png",
+      "awayName": "Everton",
+      "date": "April 3",
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10261_small.png",
+      "homeName": "Newcastle United",
       "isLive": false,
-      "time": "6:30 PM",
+      "time": "1:00 AM",
       "links":[
     {
      "type": "Vietname [ HD ]",
@@ -158,425 +88,246 @@
                ]
     
     },
-  
+
     {
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8560_small.png",
-      "awayName": "Real Sociedad",
-      "date": "Mar 31",
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9866_small.png",
-      "homeName": "Deportivo Alaves",
-      "isLive": true,
-      "time": "11:00 PM",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9879_small.png",
+      "awayName": "Fulham",
+      "date": "April 3",
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10203_small.png",
+      "homeName": "Nottingham Forest",
+      "isLive": false,
+      "time": "1:00 AM",
       "links":[
     {
      "type": "Vietname [ HD ]",
      "referer": "",
-     "link": "https://pull.niur.live/live/stream-9912035_lhd.m3u8?txSecret=c69e78087becb44b255b99cb7722f357&txTime=6609e3f1"
+     "link": ""
     },
   
     {
       "type": "Vietnam  [ SD ]",
       "referer": "",
-      "link": "https://pull.niur.live/live/stream-9912035_lsd.m3u8?txSecret=26cc9adc84c10e903fae23dc982bf4c3&txTime=6609e3f1"
+      "link": ""
      },
   
      {
       "type": "China  [ HD ]",
       "referer": "",
-      "link": "https://pull.juqihuo.com/live/stream-705956_lhd.m3u8?auth_key=1711906515-0-0-40d4d9b7fb8f3e9484134d07e4fd0756"
+      "link": ""
      },
   
      {
       "type": "China  [ SD ]",
       "referer": "",
-      "link": "https://pull.juqihuo.com/live/stream-705956_lsd.m3u8?auth_key=1711906515-0-0-008c72e39ad959ea37d3d8502b1486f0"
+      "link": ""
      }
                ]
     
     },
 
     {
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8315_small.png",
-      "awayName": "Athletic Club",
-      "date": "Mar 31",
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
-      "homeName": "Real Madrid",
-      "isLive": true,
-      "time": "1:30 AM",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9826_small.png",
+      "awayName": "Crystal Palace",
+      "date": "April 3",
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8678_small.png",
+      "homeName": "AFC Bournemouth",
+      "isLive": false,
+      "time": "1:15 AM",
       "links":[
     {
      "type": "Vietname [ HD ]",
      "referer": "",
-     "link": "https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=0c9450dbfdee4fb399cea33f72635109&txTime=6609fd41"
+     "link": ""
     },
   
     {
       "type": "Vietnam  [ SD ]",
       "referer": "",
-      "link": "https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=d7e9aeb0a1118ee90785940c53e3e643&txTime=6609fd41"
+      "link": ""
      },
   
      {
       "type": "China  [ HD ]",
       "referer": "",
-      "link": "https://pull.juqihuo.com/live/stream-743404_lhd.m3u8?auth_key=1711912815-0-0-b56c5d4bb92718b41c3dc64d6d824790"
+      "link": ""
      },
   
      {
       "type": "China  [ SD ]",
       "referer": "",
-      "link": "https://pull.juqihuo.com/live/stream-743404_lsd.m3u8?auth_key=1711912815-0-0-fc192d70cc13e67a0dc9bcde1b03251d"
+      "link": ""
+     }
+               ]
+    
+    },
+
+    {
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8602_small.png",
+      "awayName": "Wolv",
+      "date": "April 3",
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8191_small.png",
+      "homeName": "Burnley",
+      "isLive": false,
+      "time": "1:15 AM",
+      "links":[
+    {
+     "type": "Vietname [ HD ]",
+     "referer": "",
+     "link": ""
+    },
+  
+    {
+      "type": "Vietnam  [ SD ]",
+      "referer": "",
+      "link": ""
+     },
+  
+     {
+      "type": "China  [ HD ]",
+      "referer": "",
+      "link": ""
+     },
+  
+     {
+      "type": "China  [ SD ]",
+      "referer": "",
+      "link": ""
+     }
+               ]
+    
+    },
+
+
+    {
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8586_small.png",
+      "awayName": "Tottenham Hotspur",
+      "date": "April 3",
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8654_small.png",
+      "homeName": "West Ham United",
+      "isLive": false,
+      "time": "1:45 AM",
+      "links":[
+    {
+     "type": "Vietname [ HD ]",
+     "referer": "",
+     "link": ""
+    },
+  
+    {
+      "type": "Vietnam  [ SD ]",
+      "referer": "",
+      "link": ""
+     },
+  
+     {
+      "type": "China  [ HD ]",
+      "referer": "",
+      "link": ""
+     },
+  
+     {
+      "type": "China  [ SD ]",
+      "referer": "",
+      "link": ""
      }
                ]
     
     }
+       
+       ]
+       
+   },
+
+   {
+    "leagueName" : "Coppa Italia Semi-final",
+    "leagueLogo" : "https://images.fotmob.com/image_resources/logo/leaguelogo/141.png",
+    "matches" : [
+    
+     {
+       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8543_small.png",
+       "awayName": "Lazio",
+       "date": "April 3",
+       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",
+       "homeName": "Juventus",
+       "isLive": false,
+       "time": "1:30 AM",
+       "links":[
+     {
+      "type": "Vietname [ HD ]",
+      "referer": "",
+      "link": ""
+     },
+   
+     {
+       "type": "Vietnam  [ SD ]",
+       "referer": "",
+       "link": ""
+      },
+   
+      {
+       "type": "China  [ HD ]",
+       "referer": "",
+       "link": ""
+      },
+   
+      {
+       "type": "China  [ SD ]",
+       "referer": "",
+       "link": ""
+      }
+                ]
+     
+     }
         
         ]
         
     },
-  
-    
-      {
-        "leagueName" : "Bundesliga Round 27",
-        "leagueLogo" : "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/54.png",
-        "matches" : [
-        
-         {
-           "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8722_small.png",
-           "awayName": "FC Köln",
-           "date": "Mar 31",
-           "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8406_small.png",
-           "homeName": "FC Augsburg",
-           "isLive": true,
-           "time": "8:00 PM",
-           "links":[
-         {
-          "type": "Vietname [ HD ]",
-          "referer": "",
-          "link": "https://pull.niur.live/live/stream-342075_lhd.m3u8?txSecret=13fb57af0a8ee16407f91c1104018890&txTime=6609b4d5"
-         },
-       
-         {
-           "type": "Vietnam  [ SD ]",
-           "referer": "",
-           "link": "https://pull.niur.live/live/stream-342075_lsd.m3u8?txSecret=eb04fb9493de1ca9ea855cb016121914&txTime=6609b4d5"
-          },
-       
-          {
-           "type": "China  [ HD ]",
-           "referer": "",
-           "link": "https://pull.juqihuo.com/live/stream-3378908_lhd.m3u8?auth_key=1711894215-0-0-694866dda48002bbdfe49037e66cbf07"
-          },
-       
-          {
-           "type": "China  [ SD ]",
-           "referer": "",
-           "link": "https://pull.juqihuo.com/live/stream-3378908_lsd.m3u8?auth_key=1711894215-0-0-34cb2bdf368b8efb2d2de13a56a9e815"
-          }
-                    ]
-         
-         },
-  
-         {
-          "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/94937_small.png",
-          "awayName": "FC Heidenheim",
-          "date": "Mar 31",
-          "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10269_small.png",
-          "homeName": "VfB Stuttgart",
-          "isLive": false,
-          "time": "10:00 PM",
-          "links":[
-        {
-         "type": "Vietname [ HD ]",
+
+
+    {
+      "leagueName" : "Coupe de France Semi-final",
+      "leagueLogo" : "https://images.fotmob.com/image_resources/logo/leaguelogo/134.png",
+      "matches" : [
+      
+       {
+         "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9873_small.png",
+         "awayName": "Valenciennes",
+         "date": "April 3",
+         "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9748_small.png",
+         "homeName": "Lyon",
+         "isLive": false,
+         "time": "1:15 AM",
+         "links":[
+       {
+        "type": "Vietname [ HD ]",
+        "referer": "",
+        "link": ""
+       },
+     
+       {
+         "type": "Vietnam  [ SD ]",
          "referer": "",
          "link": ""
         },
-      
+     
         {
-          "type": "Vietnam  [ SD ]",
-          "referer": "",
-          "link": ""
-         },
-      
-         {
-          "type": "China  [ HD ]",
-          "referer": "",
-          "link": ""
-         },
-      
-         {
-          "type": "China  [ SD ]",
-          "referer": "",
-          "link": ""
-         }
-                   ]
-        
-        },
-  
-        {
-          "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8262_small.png",
-          "awayName": "SV Darmstadt",
-          "date": "Mar 31",
-          "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9911_small.png",
-          "homeName": "VfL Bochum",
-          "isLive": false,
-          "time": "12:00 AM",
-          "links":[
-        {
-         "type": "Vietname [ HD ]",
+         "type": "China  [ HD ]",
          "referer": "",
          "link": ""
         },
-      
+     
         {
-          "type": "Vietnam  [ SD ]",
-          "referer": "",
-          "link": ""
-         },
-      
-         {
-          "type": "China  [ HD ]",
-          "referer": "",
-          "link": ""
-         },
-      
-         {
-          "type": "China  [ SD ]",
-          "referer": "",
-          "link": ""
-         }
-                   ]
-        
+         "type": "China  [ SD ]",
+         "referer": "",
+         "link": ""
         }
-            
-            ]
-            
-        },
-
-        {
-          "leagueName" : "Ligue 1 Round 27",
-          "leagueLogo" : "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/53.png",
-          "matches" : [
+                  ]
+       
+       }
           
-           {
-             "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8521_small.png",
-             "awayName": "Brest",
-             "date": "Mar 31",
-             "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8689_small.png",
-             "homeName": "Lorient",
-             "isLive": false,
-             "time": "5:30 PM",
-             "links":[
-           {
-            "type": "Vietname [ HD ]",
-            "referer": "",
-            "link": ""
-           },
-         
-           {
-             "type": "Vietnam  [ SD ]",
-             "referer": "",
-             "link": ""
-            },
-         
-            {
-             "type": "China  [ HD ]",
-             "referer": "",
-             "link": ""
-            },
-         
-            {
-             "type": "China  [ SD ]",
-             "referer": "",
-             "link": ""
-            }
-                      ]
-           
-           },
-
-           {
-            "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9941_small.png",
-            "awayName": "Toulouse",
-            "date": "Mar 31",
-            "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8311_small.png",
-            "homeName": "Clermont Foot",
-            "isLive": true,
-            "time": "7:30 PM",
-            "links":[
-          {
-           "type": "Vietname [ HD ]",
-           "referer": "",
-           "link": "https://pull.niur.live/live/stream-9912003_lhd.m3u8?txSecret=df5a877c2b29c3ed67bdec0c6fcb8f40&txTime=6609b54d"
-          },
-        
-          {
-            "type": "Vietnam  [ SD ]",
-            "referer": "",
-            "link": "https://pull.niur.live/live/stream-9912003_lsd.m3u8?txSecret=d8d187adefd3808398a81eccb0b860e1&txTime=6609b54d"
-           },
-        
-           {
-            "type": "China  [ HD ]",
-            "referer": "",
-            "link": "https://pull.juqihuo.com/live/stream-486498_lhd.m3u8?auth_key=1711894336-0-0-19831668a335b057b3971a212cbffd69"
-           },
-        
-           {
-            "type": "China  [ SD ]",
-            "referer": "",
-            "link": "https://pull.juqihuo.com/live/stream-486498_lsd.m3u8?auth_key=1711894336-0-0-ff5f053828e0a3e8811ac5832efa9ddc"
-           }
-                     ]
+          ]
           
-          },
-
-          {
-            "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10249_small.png",
-            "awayName": "Montpellier",
-            "date": "Mar 31",
-            "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9746_small.png",
-            "homeName": "Le Havre",
-            "isLive": true,
-            "time": "7:30 PM",
-            "links":[
-          {
-           "type": "Vietname [ HD ]",
-           "referer": "",
-           "link": "https://pull.niur.live/live/stream-372746_lhd.m3u8?txSecret=b088e5b9998bff6bfa24deae14e69ba4&txTime=6609b5c5"
-          },
-        
-          {
-            "type": "Vietnam  [ SD ]",
-            "referer": "",
-            "link": "https://pull.niur.live/live/stream-372746_lsd.m3u8?txSecret=d35fa72d69ef02e162c67b51a4f4e51a&txTime=6609b5c5"
-           },
-        
-           {
-            "type": "China  [ HD ]",
-            "referer": "",
-            "link": "https://pull.juqihuo.com/live/stream-752338_lhd.m3u8?auth_key=1711894456-0-0-2bfb6c4b921a7796d91cf7c4384cf885"
-           },
-        
-           {
-            "type": "China  [ SD ]",
-            "referer": "",
-            "link": "https://pull.juqihuo.com/live/stream-752338_lsd.m3u8?auth_key=1711894456-0-0-fe07290b147337daa9c65ba09e00e44d"
-           }
-                     ]
-          
-          },
-
-          {
-            "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9830_small.png",
-            "awayName": "Nantes",
-            "date": "Mar 31",
-            "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9831_small.png",
-            "homeName": "Nice",
-            "isLive": true,
-            "time": "7:30 PM",
-            "links":[
-          {
-           "type": "Vietname [ HD ]",
-           "referer": "",
-           "link": "https://pull.niues.live/live/stream-9912025_lhd.m3u8?auth_key=1711894509-0-0-c3ab3eecceb345364433dee48dbb9f08"
-          },
-        
-          {
-            "type": "Vietnam  [ SD ]",
-            "referer": "",
-            "link": "https://pull.niues.live/live/stream-9912025_lsd.m3u8?auth_key=1711894509-0-0-620a5df5f0a27f97ae71c3e6d28a56be"
-           },
-        
-           {
-            "type": "China  [ HD ]",
-            "referer": "",
-            "link": "https://pull.juqihuo.com/live/stream-765648_lhd.m3u8?auth_key=1711894516-0-0-1aa558e3860457df36ed6b21b6d70af"
-           },
-        
-           {
-            "type": "China  [ SD ]",
-            "referer": "",
-            "link": "https://pull.juqihuo.com/live/stream-765648_lsd.m3u8?auth_key=1711894516-0-0-6548726b0eadd014600fa5eca7cc728a"
-           }
-                     ]
-          
-          },
-
-          {
-            "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9851_small.png",
-            "awayName": "Rennes",
-            "date": "Mar 31",
-            "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9848_small.png",
-            "homeName": "Strasbourg",
-            "isLive": false,
-            "time": "9:35 PM",
-            "links":[
-          {
-           "type": "Vietname [ HD ]",
-           "referer": "",
-           "link": ""
-          },
-        
-          {
-            "type": "Vietnam  [ SD ]",
-            "referer": "",
-            "link": ""
-           },
-        
-           {
-            "type": "China  [ HD ]",
-            "referer": "",
-            "link": ""
-           },
-        
-           {
-            "type": "China  [ SD ]",
-            "referer": "",
-            "link": ""
-           }
-                     ]
-          
-          },
-
-          {
-            "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9847_small.png",
-            "awayName": "PSG",
-            "date": "April 1",
-            "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8592_small.png",
-            "homeName": "Marseille",
-            "isLive": true,
-            "time": "1:15 AM",
-            "links":[
-          {
-           "type": "Vietname [ HD ]",
-           "referer": "",
-           "link": "https://pull.niur.live/live/stream-486629_lhd.m3u8?txSecret=ba37513342d152fcc51cf01e40b295c9&txTime=6609ff21"
-          },
-        
-          {
-            "type": "Vietnam  [ SD ]",
-            "referer": "",
-            "link": "https://pull.niur.live/live/stream-486629_lsd.m3u8?txSecret=1E2KEoXp9m6NHa9LowxWgVDGrDrbPeyxXq&txTime=6609ff21"
-           },
-        
-           {
-            "type": "China  [ HD ]",
-            "referer": "",
-            "link": "https://pull.juqihuo.com/live/stream-238362_lhd.m3u8?auth_key=1711913175-0-0-b0a002f47332773ed959d09a614c7186"
-           },
-        
-           {
-            "type": "China  [ SD ]",
-            "referer": "",
-            "link": "https://pull.juqihuo.com/live/stream-238362_lsd.m3u8?auth_key=1711913175-0-0-07a0f8d528d79feeaa5a7e42e66e0507"
-           }
-                     ]
-          
-          }
-              
-              ]
-              
-          }
+      }
 
         
   
