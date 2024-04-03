@@ -48,31 +48,31 @@
       "date": "April 4",
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9937_small.png",
       "homeName": "Brentford",
-      "isLive": false,
+      "isLive": true,
       "time": "1:00 AM",
       "links":[
     {
      "type": "Vietname [ HD ]",
      "referer": "",
-     "link": ""
+     "link": "https://pull.niues.live/live/stream-479849_lhd.m3u8?auth_key=1712165289-0-0-56a33ebbd19b88623bb02d91dabeae98"
     },
   
     {
       "type": "Vietnam  [ SD ]",
       "referer": "",
-      "link": ""
+      "link": "https://pull.niues.live/live/stream-479849_lsd.m3u8?auth_key=1712165289-0-0-f8b1086a774a90075af44dd7d3ac7c17"
      },
   
      {
       "type": "China  [ HD ]",
       "referer": "",
-      "link": ""
+      "link": "https://pull.juqihuo.com/live/stream-317957_lhd.m3u8?auth_key=1712165355-0-0-bc9083533163a98ce8e65eadd005316b"
      },
   
      {
       "type": "China  [ SD ]",
       "referer": "",
-      "link": ""
+      "link": "https://pull.juqihuo.com/live/stream-317957_lsd.m3u8?auth_key=1712165355-0-0-9cdcbb494f065ae0b29ac64ae3aa5d91"
      }
                ]
     
@@ -84,31 +84,31 @@
       "date": "April 4",
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
       "homeName": "Manchester City",
-      "isLive": false,
+      "isLive": true,
       "time": "1:45 AM",
       "links":[
     {
      "type": "Vietname [ HD ]",
      "referer": "",
-     "link": ""
+     "link": "https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1712165469-0-0-f4d37317a25b862009ff53e665f715cb"
     },
   
     {
       "type": "Vietnam  [ SD ]",
       "referer": "",
-      "link": ""
+      "link": "https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1712165469-0-0-9bcab59803b20b928296cb9655086479"
      },
   
      {
       "type": "China  [ HD ]",
       "referer": "",
-      "link": ""
+      "link": "https://pull.juqihuo.com/live/stream-956896_lhd.m3u8?auth_key=1712165535-0-0-f016078f7cb1c9aefa42cba352efd86e"
      },
   
      {
       "type": "China  [ SD ]",
       "referer": "",
-      "link": ""
+      "link": "https://pull.juqihuo.com/live/stream-956896_lsd.m3u8?auth_key=1712165535-0-0-8bbba855dd4d780692be4765041b3805"
      }
                ]
     
@@ -133,31 +133,31 @@
        "date": "April 4",
        "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8535_small.png",
        "homeName": "Fiorentina",
-       "isLive": false,
+       "isLive": true,
        "time": "1:30 AM",
        "links":[
      {
       "type": "Vietname [ HD ]",
       "referer": "",
-      "link": ""
+      "link": "https://pull.niues.live/live/stream-361284_lhd.m3u8?auth_key=1712165949-0-0-2dbde5c9e53b49b629c306709b598b18"
      },
    
      {
        "type": "Vietnam  [ SD ]",
        "referer": "",
-       "link": ""
+       "link": "https://pull.niues.live/live/stream-361284_lsd.m3u8?auth_key=1712165949-0-0-fdbd3d64f013af9fe6c2d8f723907241"
       },
    
       {
        "type": "China  [ HD ]",
        "referer": "",
-       "link": ""
+       "link": "https://pull.juqihuo.com/live/stream-2961254_lhd.m3u8?auth_key=1712166015-0-0-bee04da59a847b5811390e1294c6a7a8"
       },
    
       {
        "type": "China  [ SD ]",
        "referer": "",
-       "link": ""
+       "link": "https://pull.juqihuo.com/live/stream-2961254_lsd.m3u8?auth_key=1712166015-0-0-0a64ea2f4cc026f03971dd86631f1990"
       }
                 ]
      
