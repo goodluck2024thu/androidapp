@@ -7,165 +7,116 @@
    "matches" : [
    
     {
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
-      "awayName": "Man City",
-      "date": "April 6",
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9826_small.png",
-      "homeName": "Crystal Palace",
-      "isLive": true,
-      "time": "6:00 PM",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
+      "awayName": "Liverpool",
+      "date": "April 7",
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
+      "homeName": "Manchester United",
+      "isLive": false,
+      "time": "9:00 PM",
       "links":[
     {
      "type": "Vietname [ HD ]",
      "referer": "",
-     "link": "https://pull.niues.live/live/stream-9912085_lhd.m3u8?auth_key=1712405289-0-0-8edff1ead55e24a44eb106696d67be8b"
+     "link": ""
     },
   
     {
       "type": "Vietnam  [ SD ]",
       "referer": "",
-      "link": "https://pull.niues.live/live/stream-9912085_lsd.m3u8?auth_key=1712405289-0-0-e44ccf50638c3d3e54f166bf7f3a3e90"
+      "link": ""
      },
   
      {
       "type": "China  [ HD ]",
       "referer": "",
-      "link": "https://pull.juqihuo.com/live/stream-308116_lhd.m3u8?auth_key=1712405416-0-0-3ed00dc76889f6141c89eadc25e52f08"
+      "link": ""
      },
   
      {
       "type": "China  [ SD ]",
       "referer": "",
-      "link": "https://pull.juqihuo.com/live/stream-308116_lsd.m3u8?auth_key=1712405416-0-0-e3ed40b40a791efbfc90c90b2f56f619"
+      "link": ""
      }
                ]
     
     },
 
     {
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10204_small.png",
-      "awayName": "Brighton",
-      "date": "April 4",
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9937_small.png",
-      "homeName": "Brentford",
-      "isLive": true,
-      "time": "1:00 AM",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
+      "awayName": "Chelsea",
+      "date": "April 7",
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8657_small.png",
+      "homeName": "Sheffield United",
+      "isLive": false,
+      "time": "11:00 AM",
       "links":[
     {
      "type": "Vietname [ HD ]",
      "referer": "",
-     "link": "https://pull.niues.live/live/stream-479849_lhd.m3u8?auth_key=1712165289-0-0-56a33ebbd19b88623bb02d91dabeae98"
+     "link": ""
     },
   
     {
       "type": "Vietnam  [ SD ]",
       "referer": "",
-      "link": "https://pull.niues.live/live/stream-479849_lsd.m3u8?auth_key=1712165289-0-0-f8b1086a774a90075af44dd7d3ac7c17"
+      "link": ""
      },
   
      {
       "type": "China  [ HD ]",
       "referer": "",
-      "link": "https://pull.juqihuo.com/live/stream-317957_lhd.m3u8?auth_key=1712165355-0-0-bc9083533163a98ce8e65eadd005316b"
+      "link": ""
      },
   
      {
       "type": "China  [ SD ]",
       "referer": "",
-      "link": "https://pull.juqihuo.com/live/stream-317957_lsd.m3u8?auth_key=1712165355-0-0-9cdcbb494f065ae0b29ac64ae3aa5d91"
+      "link": ""
      }
                ]
     
     },
 
     {
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10252_small.png",
-      "awayName": "Aston Villa",
-      "date": "April 4",
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
-      "homeName": "Manchester City",
-      "isLive": true,
-      "time": "1:45 AM",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10203_small.png",
+      "awayName": "Nottingham Forest",
+      "date": "April 7",
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8586_small.png",
+      "homeName": "Tottenham Hotspur",
+      "isLive": false,
+      "time": "11:30 PM",
       "links":[
     {
      "type": "Vietname [ HD ]",
      "referer": "",
-     "link": "https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1712165469-0-0-f4d37317a25b862009ff53e665f715cb"
+     "link": ""
     },
   
     {
       "type": "Vietnam  [ SD ]",
       "referer": "",
-      "link": "https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1712165469-0-0-9bcab59803b20b928296cb9655086479"
+      "link": ""
      },
   
      {
       "type": "China  [ HD ]",
       "referer": "",
-      "link": "https://pull.juqihuo.com/live/stream-956896_lhd.m3u8?auth_key=1712165535-0-0-f016078f7cb1c9aefa42cba352efd86e"
+      "link": ""
      },
   
      {
       "type": "China  [ SD ]",
       "referer": "",
-      "link": "https://pull.juqihuo.com/live/stream-956896_lsd.m3u8?auth_key=1712165535-0-0-8bbba855dd4d780692be4765041b3805"
+      "link": ""
      }
                ]
     
     }
-
-
-    
        
        ]
        
-   },
-   
-
-   {
-    "leagueName" : "Coppa Italia Semi-final",
-    "leagueLogo" : "https://images.fotmob.com/image_resources/logo/leaguelogo/141.png",
-    "matches" : [
-    
-     {
-       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8524_small.png",
-       "awayName": "Atalanta",
-       "date": "April 4",
-       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8535_small.png",
-       "homeName": "Fiorentina",
-       "isLive": true,
-       "time": "1:30 AM",
-       "links":[
-     {
-      "type": "Vietname [ HD ]",
-      "referer": "",
-      "link": "https://pull.niues.live/live/stream-361284_lhd.m3u8?auth_key=1712165949-0-0-2dbde5c9e53b49b629c306709b598b18"
-     },
-   
-     {
-       "type": "Vietnam  [ SD ]",
-       "referer": "",
-       "link": "https://pull.niues.live/live/stream-361284_lsd.m3u8?auth_key=1712165949-0-0-fdbd3d64f013af9fe6c2d8f723907241"
-      },
-   
-      {
-       "type": "China  [ HD ]",
-       "referer": "",
-       "link": "https://pull.juqihuo.com/live/stream-2961254_lhd.m3u8?auth_key=1712166015-0-0-bee04da59a847b5811390e1294c6a7a8"
-      },
-   
-      {
-       "type": "China  [ SD ]",
-       "referer": "",
-       "link": "https://pull.juqihuo.com/live/stream-2961254_lsd.m3u8?auth_key=1712166015-0-0-0a64ea2f4cc026f03971dd86631f1990"
-      }
-                ]
-     
-     }
-        
-        ]
-        
-    }
+   }
 
         
   
