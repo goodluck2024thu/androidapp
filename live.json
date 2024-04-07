@@ -12,31 +12,31 @@
       "date": "April 7",
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
       "homeName": "Man United",
-      "isLive": false,
+      "isLive": true,
       "time": "9:00 PM",
       "links":[
     {
      "type": "Vietname [ HD ]",
      "referer": "",
-     "link": ""
+     "link": "https://pull.niur.live/live/stream-9912089_lhd.m3u8?txSecret=9ff4a8f5ee439058691e86c1bfd197ce&txTime=6612fa1d"
     },
   
     {
       "type": "Vietnam  [ SD ]",
       "referer": "",
-      "link": ""
+      "link": "https://pull.niur.live/live/stream-9912089_lsd.m3u8?txSecret=fabac8c410caf2e72edcd03bc1735a27&txTime=6612fa1d"
      },
   
      {
-      "type": "China  [ HD ]",
+      "type": "Vietnam 2  [ HD ]",
       "referer": "",
-      "link": ""
+      "link": "https://pull.niur.live/live/stream-9912060_lhd.m3u8?txSecret=2ff19cecc715c147e682337fc52d68f6&txTime=6612fa1d"
      },
   
      {
       "type": "China  [ SD ]",
       "referer": "",
-      "link": ""
+      "link": "https://pull.niur.live/live/stream-9912060_lsd.m3u8?txSecret=66a9fc16c42b6ab2a02486ea79ec496a&txTime=6612fa1d"
      }
                ]
     
