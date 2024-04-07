@@ -18,7 +18,7 @@
     {
      "type": "Vietname [ HD ]",
      "referer": "",
-     "link": "https://pull.niur.live/live/stream-9912089_lhd.m3u8?txSecret=9ff4a8f5ee439058691e86c1bfd197ce&txTime=6612fa1d"
+     "link": "https://pull.niues.live/live/stream-9912077_lhd.m3u8?auth_key=1712502789-0-0-48d063229704455b27c573c879ad99b5"
     },
   
     {
@@ -37,6 +37,30 @@
       "type": "China  [ SD ]",
       "referer": "",
       "link": "https://pull.niur.live/live/stream-9912060_lsd.m3u8?txSecret=66a9fc16c42b6ab2a02486ea79ec496a&txTime=6612fa1d"
+     },
+
+        {
+      "type": "China  [ HD ]",
+      "referer": "",
+      "link": "https://pull.juqihuo.com/live/stream-746673_lhd.m3u8?auth_key=1712502496-0-0-4c3ca379e4c6740e62aa90f0c1779127"
+     },
+
+        {
+      "type": "China  [ SD ]",
+      "referer": "",
+      "link": "https://pull.juqihuo.com/live/stream-746673_lsd.m3u8?auth_key=1712502496-0-0-32a8d879a9c2ba6300fd00fd4ef62458"
+     },
+
+        {
+      "type": "Vietnam Server  [ HD ]",
+      "referer": "",
+      "link": "https://live.vbfast.xyz/808de5b2b9aa220ddbb1761545c33269/1712542273260/en7hf6r/en7hf6r@720p.m3u8"
+     },
+
+        {
+      "type": "English",
+      "referer": "",
+      "link": "https://ctrl.laotv.la/live/TSport2/index.m3u8"
      }
                ]
     
