@@ -1,108 +1,75 @@
-[
-
-  
 {
-   "leagueName" : "Premier League Round 31",
-   "leagueLogo" : "https://images.fotmob.com/image_resources/logo/leaguelogo/47.png",
+   "leagueName" : "Champions League Quarter-final",
+   "leagueLogo" : "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/42.png",
    "matches" : [
    
     {
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
-      "awayName": "Liverpool",
-      "date": "April 7",
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
-      "homeName": "Man United",
-      "isLive": true,
-      "time": "9:00 PM",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9823_small.png",
+      "awayName": "Bayern München",
+      "date": "April 10",
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
+      "homeName": "Arsenal",
+      "isLive": false,
+      "time": "1:30 AM",
       "links":[
-
-        {
-     "type": "Vietname [ HD ]",
-     "referer": "",
-     "link": "https://pull.niues.live/live/stream-248268_lhd.m3u8?auth_key=1712554509-0-0-4aa5bbbc82e657a94e3181019e142a69"
-    },
     {
      "type": "Vietname [ HD ]",
      "referer": "",
-     "link": "https://pull.niues.live/live/stream-9912077_lhd.m3u8?auth_key=1712502789-0-0-48d063229704455b27c573c879ad99b5"
+     "link": ""
     },
   
     {
       "type": "Vietnam  [ SD ]",
       "referer": "",
-      "link": "https://pull.niur.live/live/stream-9912089_lsd.m3u8?txSecret=fabac8c410caf2e72edcd03bc1735a27&txTime=6612fa1d"
+      "link": ""
      },
   
      {
-      "type": "Vietnam 2  [ HD ]",
-      "referer": "",
-      "link": "https://pull.niur.live/live/stream-9912060_lhd.m3u8?txSecret=2ff19cecc715c147e682337fc52d68f6&txTime=6612fa1d"
-     },
-  
-     {
-      "type": "China  [ SD ]",
-      "referer": "",
-      "link": "https://pull.niur.live/live/stream-9912060_lsd.m3u8?txSecret=66a9fc16c42b6ab2a02486ea79ec496a&txTime=6612fa1d"
-     },
-
-        {
       "type": "China  [ HD ]",
       "referer": "",
-      "link": "https://pull.juqihuo.com/live/stream-746673_lhd.m3u8?auth_key=1712502496-0-0-4c3ca379e4c6740e62aa90f0c1779127"
+      "link": ""
      },
-
-        {
+  
+     {
       "type": "China  [ SD ]",
       "referer": "",
-      "link": "https://pull.juqihuo.com/live/stream-746673_lsd.m3u8?auth_key=1712502496-0-0-32a8d879a9c2ba6300fd00fd4ef62458"
-     },
-
-        {
-      "type": "Vietnam Server  [ HD ]",
-      "referer": "",
-      "link": "https://live.vbfast.xyz/808de5b2b9aa220ddbb1761545c33269/1712542273260/en7hf6r/en7hf6r@720p.m3u8"
-     },
-
-        {
-      "type": "English",
-      "referer": "",
-      "link": "https://ctrl.laotv.la/live/TSport2/index.m3u8"
+      "link": ""
      }
                ]
     
     },
 
     {
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
-      "awayName": "Chelsea",
-      "date": "April 7",
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8657_small.png",
-      "homeName": "Sheffield United",
-      "isLive": true,
-      "time": "11:00 AM",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
+      "awayName": "Man City",
+      "date": "April 10",
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
+      "homeName": "Real Madrid",
+      "isLive": false,
+      "time": "1:30 AM",
       "links":[
     {
      "type": "Vietname [ HD ]",
      "referer": "",
-     "link": "https://pull.niues.live/live/stream-9912077_lsd.m3u8?auth_key=1712510949-0-0-ba39775313d162a9209c42dc48731aa3"
+     "link": ""
     },
   
     {
       "type": "Vietnam  [ SD ]",
       "referer": "",
-      "link": "https://pull.niues.live/live/stream-9912077_lsd.m3u8?auth_key=1712510949-0-0-ba39775313d162a9209c42dc48731aa3"
+      "link": ""
      },
   
      {
       "type": "China  [ HD ]",
       "referer": "",
-      "link": "https://pull.juqihuo.com/live/stream-746673_lhd.m3u8?auth_key=1712511076-0-0-36e41dd0c578c079ba84cc639f850dd8"
+      "link": ""
      },
   
      {
       "type": "China  [ SD ]",
       "referer": "",
-      "link": "https://pull.juqihuo.com/live/stream-746673_lsd.m3u8?auth_key=1712511076-0-0-8ed772d80d2e0802bfc9fb9b8075c5c9"
+      "link": ""
      }
                ]
     
@@ -114,31 +81,31 @@
       "date": "April 7",
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8586_small.png",
       "homeName": "Tottenham Hotspur",
-      "isLive": true,
+      "isLive": false,
       "time": "11:30 PM",
       "links":[
     {
      "type": "Vietname [ HD ]",
      "referer": "",
-     "link": "https://pull.niues.live/live/stream-499765_lsd.m3u8?auth_key=1712511849-0-0-d035f5134b2493ac91c7035ad1261c89"
+     "link": ""
     },
   
     {
       "type": "Vietnam  [ SD ]",
       "referer": "",
-      "link": "https://pull.niues.live/live/stream-499765_lsd.m3u8?auth_key=1712511849-0-0-d035f5134b2493ac91c7035ad1261c89"
+      "link": ""
      },
   
      {
       "type": "China  [ HD ]",
       "referer": "",
-      "link": "https://pull.juqihuo.com/live/stream-308116_lsd.m3u8?auth_key=1712511976-0-0-30aa62050ee38b7c8628976e45ea5732"
+      "link": ""
      },
   
      {
       "type": "China  [ SD ]",
       "referer": "",
-      "link": "https://pull.juqihuo.com/live/stream-308116_lsd.m3u8?auth_key=1712511976-0-0-30aa62050ee38b7c8628976e45ea5732"
+      "link": ""
      }
                ]
     
@@ -146,8 +113,95 @@
        
        ]
        
-   }
+   },
 
+   {
+    "leagueName" : "Coppa Italia Semi-final",
+    "leagueLogo" : "https://images.fotmob.com/image_resources/logo/leaguelogo/141.png",
+    "matches" : [
+    
+     {
+       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8543_small.png",
+       "awayName": "Lazio",
+       "date": "April 3",
+       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",
+       "homeName": "Juventus",
+       "isLive": false,
+       "time": "1:30 AM",
+       "links":[
+     {
+      "type": "Vietname [ HD ]",
+      "referer": "",
+      "link": ""
+     },
+   
+     {
+       "type": "Vietnam  [ SD ]",
+       "referer": "",
+       "link": ""
+      },
+   
+      {
+       "type": "China  [ HD ]",
+       "referer": "",
+       "link": ""
+      },
+   
+      {
+       "type": "China  [ SD ]",
+       "referer": "",
+       "link": ""
+      }
+                ]
+     
+     }
         
-  
-  ]
+        ]
+        
+    },
+
+
+    {
+      "leagueName" : "Coupe de France Semi-final",
+      "leagueLogo" : "https://images.fotmob.com/image_resources/logo/leaguelogo/134.png",
+      "matches" : [
+      
+       {
+         "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9873_small.png",
+         "awayName": "Valenciennes",
+         "date": "April 3",
+         "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9748_small.png",
+         "homeName": "Lyon",
+         "isLive": false,
+         "time": "1:15 AM",
+         "links":[
+       {
+        "type": "Vietname [ HD ]",
+        "referer": "",
+        "link": ""
+       },
+     
+       {
+         "type": "Vietnam  [ SD ]",
+         "referer": "",
+         "link": ""
+        },
+     
+        {
+         "type": "China  [ HD ]",
+         "referer": "",
+         "link": ""
+        },
+     
+        {
+         "type": "China  [ SD ]",
+         "referer": "",
+         "link": ""
+        }
+                  ]
+       
+       }
+          
+          ]
+          
+      }
