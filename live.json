@@ -1,4 +1,5 @@
-{
+[
+   {
    "leagueName" : "Champions League Quarter-final",
    "leagueLogo" : "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/42.png",
    "matches" : [
@@ -9,13 +10,13 @@
       "date": "April 10",
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
       "homeName": "Arsenal",
-      "isLive": false,
+      "isLive": true,
       "time": "1:30 AM",
       "links":[
     {
      "type": "Vietname [ HD ]",
      "referer": "",
-     "link": ""
+     "link": "https://pull.niur.live/live/stream-9912085_lhd.m3u8?txSecret=10a863c94a8a6d96a3124fd8e6b750ff&txTime=66148419"
     },
   
     {
@@ -205,3 +206,4 @@
           ]
           
       }
+]
