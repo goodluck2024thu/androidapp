@@ -15,6 +15,12 @@
       "isLive": true,
       "time": "9:00 PM",
       "links":[
+
+        {
+     "type": "Vietname [ HD ]",
+     "referer": "",
+     "link": "https://pull.niues.live/live/stream-248268_lhd.m3u8?auth_key=1712554509-0-0-4aa5bbbc82e657a94e3181019e142a69"
+    },
     {
      "type": "Vietname [ HD ]",
      "referer": "",
