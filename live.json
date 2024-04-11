@@ -53,37 +53,31 @@
       "date": "April 12",
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8178_small.png",
       "homeName": "Bayer Leverkusen",
-      "isLive": false,
+      "isLive": true,
       "time": "1:30 AM",
       "links":[
     {
      "type": "Vietname [ HD ]",
      "referer": "",
-     "link": ""
+     "link": "https://pull.niues.live/live/stream-9912084_lhd.m3u8?auth_key=1712861890-0-0-8f2043a0a98e5814097cfb50033bca22"
     },
   
     {
       "type": "Vietnam  [ SD ]",
       "referer": "",
-      "link": ""
+      "link": "https://pull.niues.live/live/stream-9912084_lsd.m3u8?auth_key=1712861890-0-0-d400f7140e340150a5f9508ee3f45c97"
      },
   
      {
       "type": "Vietnam 2[HD]",
       "referer": "",
-      "link": ""
+      "link": "https://pull.niues.live/live/stream-9912077_lhd.m3u8?auth_key=1712862010-0-0-9f430607561b3038afeb7e0900c952d6"
      },
   
      {
       "type": "Vietnam 2[SD]",
       "referer": "",
-      "link": ""
-     },
-
-         {
-      "type": "English FullHD",
-      "referer": "",
-      "link": ""
+      "link": "https://pull.niues.live/live/stream-9912077_lsd.m3u8?auth_key=1712862010-0-0-fe0622880205a61b65a37de7668e1487"
      }
                ]
     
@@ -95,37 +89,31 @@
       "date": "April 12",
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9772_small.png",
       "homeName": "Benfica",
-      "isLive": false,
+      "isLive": true,
       "time": "1:30 AM",
       "links":[
     {
      "type": "Vietname [ HD ]",
      "referer": "",
-     "link": ""
+     "link": "https://pull.niues.live/live/stream-329740_lhd.m3u8?auth_key=1712862070-0-0-a8c0a4a634bd3a2e373ed75e1f35f156"
     },
   
     {
       "type": "Vietnam  [ SD ]",
       "referer": "",
-      "link": ""
+      "link": "https://pull.niues.live/live/stream-329740_lsd.m3u8?auth_key=1712862070-0-0-8a94a2fb070f87b45a53c613741e4e9f"
      },
   
      {
       "type": "Vietnam 2[HD]",
       "referer": "",
-      "link": ""
+      "link": "https://pull.niur.live/live/stream-9912088_lhd.m3u8?txSecret=8dc14aff9e36b45f940cb6630014743c&txTime=66187a02"
      },
   
      {
       "type": "Vietnam 2[SD]",
       "referer": "",
-      "link": ""
-     },
-
-         {
-      "type": "English FullHD",
-      "referer": "",
-      "link": ""
+      "link": "https://pull.niur.live/live/stream-9912088_lsd.m3u8?txSecret=01b709cfe2159efd794e5c927f9ff548&txTime=66187a02"
      }
                ]
     
@@ -137,37 +125,31 @@
       "date": "April 12",
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
       "homeName": "Liverpool",
-      "isLive": false,
+      "isLive": true,
       "time": "1:30 AM",
       "links":[
     {
      "type": "Vietname [ HD ]",
      "referer": "",
-     "link": ""
+     "link": "https://pull.niur.live/live/stream-9912085_lhd.m3u8?txSecret=8210fbfe9b10a1f188264a732be5b5a4&txTime=66187a7a"
     },
   
     {
       "type": "Vietnam  [ SD ]",
       "referer": "",
-      "link": ""
+      "link": "https://pull.niur.live/live/stream-9912085_lsd.m3u8?txSecret=52b212c2b16d677768221cde3c81a75f&txTime=66187a7a"
      },
   
      {
       "type": "Vietnam 2[HD]",
       "referer": "",
-      "link": ""
+      "link": "https://pull.niur.live/live/stream-9912060_lhd.m3u8?txSecret=05fa99b60000ec470cced9767e3cc96c&txTime=66187a7a"
      },
   
      {
       "type": "Vietnam 2[SD]",
       "referer": "",
-      "link": ""
-     },
-
-         {
-      "type": "English FullHD",
-      "referer": "",
-      "link": ""
+      "link": "https://pull.niur.live/live/stream-9912060_lsd.m3u8?txSecret=38b3d1eff44019ffcc1c15f0ccae2217&txTime=66187a7a"
      }
                ]
     
