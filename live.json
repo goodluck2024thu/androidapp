@@ -355,13 +355,13 @@
     {
      "type": "Vietname [ HD ]",
      "referer": "",
-     "link": "https://pull.niur.live/live/stream-486629_lhd.m3u8?txSecret=296a97b4fca07fa30d8dcdc1d684d805&txTime=661ad676"
+     "link": "https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1713017650-0-0-065f5588ae467c0e7b8b6b14a9c9af7f"
     },
   
     {
       "type": "Vietnam  [ SD ]",
       "referer": "",
-      "link": "https://pull.niur.live/live/stream-486629_lsd.m3u8?txSecret=88574884b01ec11daf629a9411bc6952&txTime=661ad676"
+      "link": "https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1713017650-0-0-9369cf09567c11dd8d730b12d3dc7d39"
      }
                ]
     
