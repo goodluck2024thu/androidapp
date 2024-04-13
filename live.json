@@ -10,37 +10,31 @@
       "date": "April 13",
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9937_small.png",
       "homeName": "Brentford",
-      "isLive": false,
+      "isLive": true,
       "time": "8:30 PM",
       "links":[
     {
      "type": "Vietname [ HD ]",
      "referer": "",
-     "link": ""
+     "link": "https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1713018850-0-0-87b11153b747c26fd1a1514748776961"
     },
   
     {
       "type": "Vietnam  [ SD ]",
       "referer": "",
-      "link": ""
+      "link": "https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1713018850-0-0-14bffffb9c413b1d4b6f4d236a9e7ebd"
      },
   
      {
       "type": "Vietnam 2[HD]",
       "referer": "",
-      "link": ""
+      "link": "https://pull.niues.live/live/stream-921508_lhd.m3u8?auth_key=1713018861-0-0-85d59c5985532133722eca38748296fd"
      },
   
      {
       "type": "Vietnam 2[SD]",
       "referer": "",
-      "link": ""
-     },
-
-         {
-      "type": "English FullHD",
-      "referer": "",
-      "link": ""
+      "link": "https://pull.niues.live/live/stream-921508_lsd.m3u8?auth_key=1713018861-0-0-e3b9f775eae62c162257daa16b766abe"
      }
                ]
     
@@ -53,37 +47,31 @@
       "date": "April 13",
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8191_small.png",
       "homeName": "Burnley",
-      "isLive": false,
+      "isLive": true,
       "time": "8:30 PM",
       "links":[
     {
      "type": "Vietname [ HD ]",
      "referer": "",
-     "link": ""
+     "link": "https://pull.niur.live/live/stream-9911977_lhd.m3u8?txSecret=50d89e1618bbb4a3c010ba9a956c12dd&txTime=661ae012"
     },
   
     {
       "type": "Vietnam  [ SD ]",
       "referer": "",
-      "link": ""
+      "link": "https://pull.niur.live/live/stream-9911977_lsd.m3u8?txSecret=f79fa2cb6bb0e096f328e46a2f9e4ad0&txTime=661ae012"
      },
   
      {
       "type": "Vietnam 2[HD]",
       "referer": "",
-      "link": ""
+      "link": "https://pull.niur.live/live/stream-278654_lhd.m3u8?txSecret=983826f0ea8bc162ecf07628fe751392&txTime=661ae08a"
      },
   
      {
       "type": "Vietnam 2[SD]",
       "referer": "",
-      "link": ""
-     },
-
-         {
-      "type": "English FullHD",
-      "referer": "",
-      "link": ""
+      "link": "https://pull.niur.live/live/stream-278654_lsd.m3u8?txSecret=233bb9da36bad74e01c853a460691d5b&txTime=661ae08a"
      }
                ]
     
@@ -95,37 +83,43 @@
       "date": "April 13",
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
       "homeName": "Manchester City",
-      "isLive": false,
+      "isLive": true,
       "time": "8:30 PM",
       "links":[
     {
      "type": "Vietname [ HD ]",
      "referer": "",
-     "link": ""
+     "link": "https://pull.niur.live/live/stream-9912060_lhd.m3u8?txSecret=c4fc70e9ee328a346fb69e18bcf3c9cf&txTime=661ae0c6"
     },
   
     {
       "type": "Vietnam  [ SD ]",
       "referer": "",
-      "link": ""
+      "link": "https://pull.niur.live/live/stream-9912060_lsd.m3u8?txSecret=bd05333ba315edb61990e78bb73cc905&txTime=661ae0c6"
      },
   
      {
       "type": "Vietnam 2[HD]",
       "referer": "",
-      "link": ""
+      "link": "https://pull.niues.live/live/stream-9912085_lhd.m3u8?auth_key=1713019630-0-0-d5e005c9698e21bf27d8f5fc80fd5a14"
      },
   
      {
       "type": "Vietnam 2[SD]",
       "referer": "",
-      "link": ""
+      "link": "https://pull.niues.live/live/stream-9912085_lsd.m3u8?auth_key=1713019630-0-0-b94e8b9cb7486089c7cd7211c4ee46ed"
      },
 
          {
-      "type": "English FullHD",
+      "type": "Vietnam 3 HD",
       "referer": "",
-      "link": ""
+      "link": "https://pull.niues.live/live/stream-499765_lhd.m3u8?auth_key=1713019750-0-0-740e229c8734016aebba605333100c1b"
+     },
+
+	      {
+      "type": "Vietnam 3 SD",
+      "referer": "",
+      "link": "https://pull.niues.live/live/stream-499765_lsd.m3u8?auth_key=1713019750-0-0-8474dc5bacdd1d3aa5028f45fee7e246"
      }
                ]
     
@@ -137,37 +131,31 @@
       "date": "April 13",
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10203_small.png",
       "homeName": "Nottingham Forest",
-      "isLive": false,
+      "isLive": true,
       "time": "8:30 PM",
       "links":[
     {
      "type": "Vietname [ HD ]",
      "referer": "",
-     "link": ""
+     "link": "https://pull.niues.live/live/stream-9912043_lhd.m3u8?auth_key=1713019870-0-0-ce4298cb5416bb00eb933df8b2b94685"
     },
   
     {
       "type": "Vietnam  [ SD ]",
       "referer": "",
-      "link": ""
+      "link": "https://pull.niues.live/live/stream-9912043_lsd.m3u8?auth_key=1713019870-0-0-c9f9445a6c20d69018cf2d32c2fb47af"
      },
   
      {
       "type": "Vietnam 2[HD]",
       "referer": "",
-      "link": ""
+      "link": "https://pull.niur.live/live/stream-9912007_lhd.m3u8?txSecret=78f2700f07b5c1e13ab549199c14c8ee&txTime=661ae22e"
      },
   
      {
       "type": "Vietnam 2[SD]",
       "referer": "",
-      "link": ""
-     },
-
-         {
-      "type": "English FullHD",
-      "referer": "",
-      "link": ""
+      "link": "https://pull.niur.live/live/stream-9912007_lsd.m3u8?txSecret=c0f62116213f4f64dacf0069f2520061&txTime=661ae22e"
      }
                ]
     
