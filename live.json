@@ -177,19 +177,19 @@
       "date": "April 14",
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/7878_small.png",
       "homeName": "Granada",
-      "isLive": false,
+      "isLive": true,
       "time": "8:45 PM",
       "links":[
     {
      "type": "Vietname [ HD ]",
      "referer": "",
-     "link": ""
+     "link": "https://pull.niur.live/live/stream-9912003_lhd.m3u8?txSecret=b0892cd4ee4bf0dee023dfa66e0c70e1&txTime=661c3822"
     },
   
     {
       "type": "Vietnam  [ SD ]",
       "referer": "",
-      "link": ""
+      "link": "https://pull.niur.live/live/stream-9912003_lsd.m3u8?txSecret=b2f08fc98f31a1370c6002e339daec44&txTime=661c3822"
      }
                ]
     
