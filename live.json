@@ -10,43 +10,43 @@
       "date": "April 18",
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9823_small.png",
       "homeName": "Bayern München",
-      "isLive": false,
+      "isLive": true,
       "time": "1:30 AM",
       "links":[
     {
      "type": "Vietname [ HD ]",
      "referer": "",
-     "link": ""
+     "link": "https://pull.niues.live/live/stream-9912077_lhd.m3u8?auth_key=1713382210-0-0-2f3edfc534fe6f0d9b673bdefa8fe1a9"
     },
   
     {
       "type": "Vietnam  [ SD ]",
       "referer": "",
-      "link": ""
+      "link": "https://pull.niues.live/live/stream-9912077_lsd.m3u8?auth_key=1713382210-0-0-cc2c133e743ecc43c9ba9d5797938340"
      },
   
      {
       "type": "Vietnam 2[HD]",
       "referer": "",
-      "link": ""
+      "link": "https://pull.niues.live/live/stream-499765_lhd.m3u8?auth_key=1713382210-0-0-2764ea7fa49aecebc01a4a8ed77168bd"
      },
   
      {
       "type": "Vietnam 2[SD]",
       "referer": "",
-      "link": ""
+      "link": "https://pull.niues.live/live/stream-499765_lsd.m3u8?auth_key=1713382210-0-0-3bd3d0a0ec3e512544bc92b4137f5122"
      },
 	 
 	 {
       "type": "Vietnam 3[HD]",
       "referer": "",
-      "link": ""
+      "link": "https://pull.niues.live/live/stream-9912047_lhd.m3u8?auth_key=1713382270-0-0-87ab5ed1b60aa22d8815719eea240748"
      },
   
      {
       "type": "Vietnam 3[SD]",
       "referer": "",
-      "link": ""
+      "link": "https://pull.niues.live/live/stream-9912047_lsd.m3u8?auth_key=1713382270-0-0-519e30245d1d09913801536f067eb271"
      }
                ]
     
@@ -59,31 +59,42 @@
       "date": "April 18",
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
       "homeName": "Manchester City",
-      "isLive": false,
+      "isLive": true,
       "time": "1:30 AM",
       "links":[
     {
      "type": "Vietname [ HD ]",
      "referer": "",
-     "link": ""
+     "link": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1713381970-0-0-0d9f9cd0c3d58d2cdb115c490fabc896"
     },
   
     {
       "type": "Vietnam  [ SD ]",
       "referer": "",
-      "link": ""
+      "link": "https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1713381970-0-0-1e258175d3e3d4ad60f56b542b7f0564"
      },
   
      {
       "type": "Vietnam 2[HD]",
       "referer": "",
-      "link": ""
+      "link": "https://pull.niues.live/live/stream-9912048_lhd.m3u8?auth_key=1713382090-0-0-c4397f45b039a008bf1b9522d2db6ccc"
      },
   
      {
       "type": "Vietnam 2[SD]",
       "referer": "",
-      "link": ""
+      "link": "https://pull.niues.live/live/stream-9912048_lsd.m3u8?auth_key=1713382090-0-0-733d9c9455e7994f970ded782d44d25f"
+     },
+	       {
+      "type": "Vietnam 3[HD]",
+      "referer": "",
+      "link": "https://pull.niur.live/live/stream-9912089_lhd.m3u8?txSecret=87341b1747a625de0f50672e833905fa&txTime=66206956"
+     },
+  
+     {
+      "type": "Vietnam 3[SD]",
+      "referer": "",
+      "link": "https://pull.niur.live/live/stream-9912089_lsd.m3u8?txSecret=5629b82d45a85346ea1d422f7eda8a91&txTime=66206956"
      }
                ]
     
