@@ -1,52 +1,52 @@
 [
-   {
-   "leagueName" : "Premier League Round 33",
-   "leagueLogo" : "https://images.fotmob.com/image_resources/logo/leaguelogo/47.png",
+ {
+   "leagueName" : "Champions League Quarter-final",
+   "leagueLogo" : "https://images.fotmob.com/image_resources/logo/leaguelogo/42.png",
    "matches" : [
    
     {
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9826_small.png",
-      "awayName": "Crystal Palace",
-      "date": "April 14",
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
-      "homeName": "Liverpool",
-      "isLive": true,
-      "time": "7:30 PM",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
+      "awayName": "Arsenal",
+      "date": "April 18",
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9823_small.png",
+      "homeName": "Bayern München",
+      "isLive": false,
+      "time": "1:30 AM",
       "links":[
     {
      "type": "Vietname [ HD ]",
      "referer": "",
-     "link": "https://pull.niur.live/live/stream-9912075_lhd.m3u8?txSecret=0ec933367a5c19e71637d326104cddab&txTime=661c2616"
+     "link": ""
     },
   
     {
       "type": "Vietnam  [ SD ]",
       "referer": "",
-      "link": "https://pull.niur.live/live/stream-9912075_lhd.m3u8?txSecret=0ec933367a5c19e71637d326104cddab&txTime=661c2616"
+      "link": ""
      },
   
      {
       "type": "Vietnam 2[HD]",
       "referer": "",
-      "link": "https://pull.niur.live/live/stream-9912091_lhd.m3u8?txSecret=afb59633d1a89d7b92e5492842a89143&txTime=661c2652"
+      "link": ""
      },
   
      {
       "type": "Vietnam 2[SD]",
       "referer": "",
-      "link": "https://pull.niur.live/live/stream-9912091_lsd.m3u8?txSecret=99957e99c20b2dd80ed64faddb0d51e4&txTime=661c2652"
+      "link": ""
      },
 	 
 	 {
       "type": "Vietnam 3[HD]",
       "referer": "",
-      "link": "https://pull.niur.live/live/stream-9912085_lhd.m3u8?txSecret=9ffe0b839271d37acdeee00e70b39521&txTime=661c268e"
+      "link": ""
      },
   
      {
       "type": "Vietnam 3[SD]",
       "referer": "",
-      "link": "https://pull.niur.live/live/stream-9912085_lsd.m3u8?txSecret=bd71be3fec8619fa6d72dea05798961a&txTime=661c268e"
+      "link": ""
      }
                ]
     
@@ -54,143 +54,13 @@
 	
 
     {
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9879_small.png",
-      "awayName": "Fulham",
-      "date": "April 14",
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8654_small.png",
-      "homeName": "West Ham United",
-      "isLive": true,
-      "time": "7:30 PM",
-      "links":[
-    {
-     "type": "Vietname [ HD ]",
-     "referer": "",
-     "link": "https://pull.niues.live/live/stream-449827_lhd.m3u8?auth_key=1713102970-0-0-6c44fd48f8a3642398c44907600de5b1"
-    },
-  
-    {
-      "type": "Vietnam  [ SD ]",
-      "referer": "",
-      "link": "https://pull.niues.live/live/stream-449827_lsd.m3u8?auth_key=1713102970-0-0-98fc15b91f37e3adc56e3d9f4a1c196d"
-     },
-  
-     {
-      "type": "Vietnam 2[HD]",
-      "referer": "",
-      "link": "https://pull.niues.live/live/stream-9912048_lhd.m3u8?auth_key=1713103030-0-0-23e423f2a3c343892e454bf3edab3820"
-     },
-  
-     {
-      "type": "Vietnam 2[SD]",
-      "referer": "",
-      "link": "https://pull.niues.live/live/stream-9912048_lsd.m3u8?auth_key=1713103030-0-0-8d9588ad158cf4b4624fcf461d178ea0"
-     }
-               ]
-    
-    },
-	
-	{
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10252_small.png",
-      "awayName": "Aston Villa",
-      "date": "April 14",
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
-      "homeName": "Arsenal",
-      "isLive": true,
-      "time": "10:00 PM",
-      "links":[
-    {
-     "type": "Vietname [ HD ]",
-     "referer": "",
-     "link": "https://pull.niur.live/live/stream-9912060_lhd.m3u8?txSecret=b1da81bf0df758aa7aec8feabc64da36&txTime=661c4cfe"
-    },
-  
-    {
-      "type": "Vietnam  [ SD ]",
-      "referer": "",
-      "link": "https://pull.niur.live/live/stream-9912060_lsd.m3u8?txSecret=ad4f040e2003580a0b9fcaf92edb908a&txTime=661c4cfe"
-     },
-  
-     {
-      "type": "Vietnam 2[HD]",
-      "referer": "",
-      "link": "https://pull.niur.live/live/stream-9912075_lhd.m3u8?txSecret=be16bf47379dc3152d096ddea4e91b99&txTime=661c4db2"
-     },
-  
-     {
-      "type": "Vietnam 2[SD]",
-      "referer": "",
-      "link": "https://pull.niur.live/live/stream-9912075_lsd.m3u8?txSecret=f0b6fbd8e5a5a0c747972e5567a103cf&txTime=661c4db2"
-     }
-               ]
-    
-    }
-       ]
-     
-      
-   },
-
-	{
-   "leagueName" : "LaLiga Round 31",
-   "leagueLogo" : "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
-   "matches" : [
-   
-    {
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8302_small.png",
-      "awayName": "Sevilla",
-      "date": "April 14",
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8306_small.png",
-      "homeName": "Las Palmas",
-      "isLive": true,
-      "time": "6:30 PM",
-      "links":[
-    {
-     "type": "Vietname [ HD ]",
-     "referer": "",
-     "link": "https://pull.niur.live/live/stream-9912056_lhd.m3u8?txSecret=b3b71183f9be872293937dd070c226f9&txTime=661c2922"
-    },
-  
-    {
-      "type": "Vietnam  [ SD ]",
-      "referer": "",
-      "link": "https://pull.niur.live/live/stream-9912056_lsd.m3u8?txSecret=a476919ae6b46b6a187c9f9af3567059&txTime=661c2922"
-     }
-               ]
-    
-    },
-	
-
-    {
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9866_small.png",
-      "awayName": "Deportivo Alaves",
-      "date": "April 14",
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/7878_small.png",
-      "homeName": "Granada",
-      "isLive": true,
-      "time": "8:45 PM",
-      "links":[
-    {
-     "type": "Vietname [ HD ]",
-     "referer": "",
-     "link": "https://pull.niur.live/live/stream-9912003_lhd.m3u8?txSecret=b0892cd4ee4bf0dee023dfa66e0c70e1&txTime=661c3822"
-    },
-  
-    {
-      "type": "Vietnam  [ SD ]",
-      "referer": "",
-      "link": "https://pull.niur.live/live/stream-9912003_lsd.m3u8?txSecret=b2f08fc98f31a1370c6002e339daec44&txTime=661c3822"
-     }
-               ]
-    
-    },
-	
-	{
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10205_small.png",
-      "awayName": "Villarreal",
-      "date": "April 14",
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8315_small.png",
-      "homeName": "Athletic Club",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
+      "awayName": "Real Madrid",
+      "date": "April 18",
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
+      "homeName": "Manchester City",
       "isLive": false,
-      "time": "11:00 PM",
+      "time": "1:30 AM",
       "links":[
     {
      "type": "Vietname [ HD ]",
@@ -202,152 +72,22 @@
       "type": "Vietnam  [ SD ]",
       "referer": "",
       "link": ""
-     }
-               ]
-    
-    }
+     },
   
-       ]
-     
-      
-   },
-   
-   {
-   "leagueName" : "Serie A Round 32",
-   "leagueLogo" : "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
-   "matches" : [
-   
-    {
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9891_small.png",
-      "awayName": "Frosinone",
-      "date": "April 14",
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9875_small.png",
-      "homeName": "SSC Napoli",
-      "isLive": true,
-      "time": "5:00 PM",
-      "links":[
-    {
-     "type": "Vietname [ HD ]",
-     "referer": "",
-     "link": "https://pull.niur.live/live/stream-9912060_lhd.m3u8?txSecret=38cdbba08f9ae5015bea08679e561c97&txTime=661c0366"
-    },
-  
-    {
-      "type": "Vietnam  [ SD ]",
+     {
+      "type": "Vietnam 2[HD]",
       "referer": "",
-      "link": "https://pull.niur.live/live/stream-9912060_lsd.m3u8?txSecret=2056f07c10e6b88862562fa65227e210&txTime=661c0366"
-     }
-               ]
-    
-    },
-	
-
-    {
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8564_small.png",
-      "awayName": "AC Milan",
-      "date": "April 14",
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/7943_small.png",
-      "homeName": "Sassuolo",
-      "isLive": true,
-      "time": "7:30 PM",
-      "links":[
-    {
-     "type": "Vietname [ HD ]",
-     "referer": "",
-     "link": "https://pull.niur.live/live/stream-9912042_lhd.m3u8?txSecret=11b5d0e1eb773a3ad7a204200f23b646&txTime=661c27f6"
-    },
+      "link": ""
+     },
   
-    {
-      "type": "Vietnam  [ SD ]",
-      "referer": "",
-      "link": "https://pull.niur.live/live/stream-9912042_lsd.m3u8?txSecret=02d271e18752a69cb64c87c4cfc75bb3&txTime=661c27f6"
-     }
-               ]
-    
-    },
-	
-	{
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8686_small.png",
-      "awayName": "Roma",
-      "date": "April 14",
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8600_small.png",
-      "homeName": "Udinese",
-      "isLive": false,
-      "time": "7:30 PM",
-      "links":[
-    {
-     "type": "Vietname [ HD ]",
-     "referer": "",
-     "link": ""
-    },
-  
-    {
-      "type": "Vietnam  [ SD ]",
+     {
+      "type": "Vietnam 2[SD]",
       "referer": "",
       "link": ""
      }
                ]
     
     }
-  
-       ]
-     
-      
-   },
-   
-   {
-   "leagueName" : "Bundesliga Round 29",
-   "leagueLogo" : "https://images.fotmob.com/image_resources/logo/leaguelogo/54.png",
-   "matches" : [
-   
-    {
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8358_small.png",
-      "awayName": "SC Freiburg",
-      "date": "April 14",
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8262_small.png",
-      "homeName": "SV Darmstadt",
-      "isLive": true,
-      "time": "8:00 PM",
-      "links":[
-    {
-     "type": "Vietname [ HD ]",
-     "referer": "",
-     "link": "https://pull.niues.live/live/stream-361284_lhd.m3u8?auth_key=1713103630-0-0-206a64d857450d9fc9450f5cc2c97f5c"
-    },
-  
-    {
-      "type": "Vietnam  [ SD ]",
-      "referer": "",
-      "link": "https://pull.niues.live/live/stream-361284_lsd.m3u8?auth_key=1713103630-0-0-073860df4a72f1b74fa3a559231f7679"
-     }
-               ]
-    
-    },
-	
-	{
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8697_small.png",
-      "awayName": "Werder Bremen",
-      "date": "April 14",
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8178_small.png",
-      "homeName": "Bayer Leverkusen",
-      "isLive": true,
-      "time": "10:00 PM",
-      "links":[
-    {
-     "type": "Vietname [ HD ]",
-     "referer": "",
-     "link": "https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1713113050-0-0-eee43d52988625343596b02d9bd99892"
-    },
-  
-    {
-      "type": "Vietnam  [ SD ]",
-      "referer": "",
-      "link": "https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1713113050-0-0-b26775ad0a7224294c61146ba757d1e0"
-     }
-               ]
-    
-    }
-  
        ]
      
       
