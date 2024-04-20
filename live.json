@@ -46,43 +46,31 @@
       "date": "April 20",
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8346_small.png",
       "homeName": "Luton Town",
-      "isLive": false,
+      "isLive": true,
       "time": "8:30 PM",
       "links":[
     {
      "type": "Vietname [ HD ]",
      "referer": "",
-     "link": ""
+     "link": "https://pull.niur.live/live/stream-9912060_lhd.m3u8?txSecret=fea7a1deace764fab9fde7630b60b687&txTime=6624183a"
     },
   
     {
       "type": "Vietnam  [ SD ]",
       "referer": "",
-      "link": ""
+      "link": "https://pull.niur.live/live/stream-9912060_lhd.m3u8?txSecret=fea7a1deace764fab9fde7630b60b687&txTime=6624183a"
      },
   
      {
       "type": "Vietnam 2[HD]",
       "referer": "",
-      "link": ""
+      "link": "https://pull.niues.live/live/stream-9912050_lhd.m3u8?auth_key=1713623675-0-0-73e090240128c65164c403b7e255f9a0"
      },
   
      {
       "type": "Vietnam 2[SD]",
       "referer": "",
-      "link": ""
-     },
-	 
-	 {
-      "type": "Vietnam 3[HD]",
-      "referer": "",
-      "link": ""
-     },
-  
-     {
-      "type": "Vietnam 3[SD]",
-      "referer": "",
-      "link": ""
+      "link": "https://pull.niues.live/live/stream-9912050_lsd.m3u8?auth_key=1713623675-0-0-20308302bf86bc81f99269dd23651cbd"
      }
                ]
     
@@ -95,31 +83,31 @@
       "date": "April 20",
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8657_small.png",
       "homeName": "Sheffield United",
-      "isLive": false,
+      "isLive": true,
       "time": "8:30 PM",
       "links":[
     {
      "type": "Vietname [ HD ]",
      "referer": "",
-     "link": ""
+     "link": "https://pull.niur.live/live/stream-9912078_lhd.m3u8?txSecret=48c3c0348899db2bbff9d1f1e8653a2e&txTime=6624192a"
     },
   
     {
       "type": "Vietnam  [ SD ]",
       "referer": "",
-      "link": ""
+      "link": "https://pull.niur.live/live/stream-9912078_lsd.m3u8?txSecret=d8173c83e648441f8feeaa3455d2c349&txTime=6624192a"
      },
   
      {
       "type": "Vietnam 2[HD]",
       "referer": "",
-      "link": ""
+      "link": "https://pull.niur.live/live/stream-9912052_lhd.m3u8?txSecret=1383379c38a4cd5ccb307d5e5a77344c&txTime=662419a2"
      },
   
      {
       "type": "Vietnam 2[SD]",
       "referer": "",
-      "link": ""
+      "link": "https://pull.niur.live/live/stream-9912052_lsd.m3u8?txSecret=27c639afbfc5e5ddb3af16303db2d036&txTime=662419a2"
      }
                ]
     
