@@ -46,43 +46,19 @@
       "date": "April 21",
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8668_small.png",
       "homeName": "Everton",
-      "isLive": false,
+      "isLive": true,
       "time": "7:00 PM",
       "links":[
     {
      "type": "Vietname [ HD ]",
      "referer": "",
-     "link": ""
+     "link": "https://pull.niur.live/live/stream-9912075_lhd.m3u8?txSecret=ee228007a733f13eea7feb2d3d687d09&txTime=66256c4e"
     },
   
     {
       "type": "Vietnam  [ SD ]",
       "referer": "",
-      "link": ""
-     },
-  
-     {
-      "type": "Vietnam 2[HD]",
-      "referer": "",
-      "link": ""
-     },
-  
-     {
-      "type": "Vietnam 2[SD]",
-      "referer": "",
-      "link": ""
-     },
-	 
-	 {
-      "type": "Vietnam 3[HD]",
-      "referer": "",
-      "link": ""
-     },
-  
-     {
-      "type": "Vietnam 3[SD]",
-      "referer": "",
-      "link": ""
+      "link": "https://pull.niur.live/live/stream-9912075_lsd.m3u8?txSecret=de7b3a4a95d0128ffc89b34bcbf70212&txTime=66256c4e"
      }
                ]
     
@@ -95,31 +71,19 @@
       "date": "April 21",
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10252_small.png",
       "homeName": "Aston Villa",
-      "isLive": false,
+      "isLive": true,
       "time": "8:30 PM",
       "links":[
     {
      "type": "Vietname [ HD ]",
      "referer": "",
-     "link": ""
+     "link": "https://pull.niues.live/live/stream-9912050_lhd.m3u8?auth_key=1713710470-0-0-673c040cc6e132bf298a88facb41299b"
     },
   
     {
       "type": "Vietnam  [ SD ]",
       "referer": "",
-      "link": ""
-     },
-  
-     {
-      "type": "Vietnam 2[HD]",
-      "referer": "",
-      "link": ""
-     },
-  
-     {
-      "type": "Vietnam 2[SD]",
-      "referer": "",
-      "link": ""
+      "link": "https://pull.niues.live/live/stream-9912050_lsd.m3u8?auth_key=1713710470-0-0-51f3097d0033cd36e457d9fb4e3be979"
      }
                ]
     
