@@ -344,19 +344,19 @@
       "date": "April 21",
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9804_small.png",
       "homeName": "Torino",
-      "isLive": false,
+      "isLive": true,
       "time": "7:30 PM",
       "links":[
     {
      "type": "Vietname [ HD ]",
      "referer": "",
-     "link": ""
+     "link": "https://pull.niues.live/live/stream-9912004_lhd.m3u8?auth_key=1713709750-0-0-74e44c7dcf2e115e8f13e233e4e52bef"
     },
   
     {
       "type": "Vietnam  [ SD ]",
       "referer": "",
-      "link": ""
+      "link": "https://pull.niues.live/live/stream-9912004_lsd.m3u8?auth_key=1713709750-0-0-9467d221f823cf5303560bb815e510cb"
      }
                ]
     
@@ -426,19 +426,19 @@
       "date": "April 21",
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8697_small.png",
       "homeName": "Werder Bremen",
-      "isLive": false,
+      "isLive": true,
       "time": "8:00 PM",
       "links":[
     {
      "type": "Vietname [ HD ]",
      "referer": "",
-     "link": ""
+     "link": "https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=c6834127236b47c48dd90638f4858996&txTime=66256672"
     },
   
     {
       "type": "Vietnam  [ SD ]",
       "referer": "",
-      "link": ""
+      "link": "https://pull.niur.live/live/stream-291277_lsd.m3u8?txSecret=7d79e249884b2b845050af3205b3395c&txTime=66256672"
      }
                ]
     
