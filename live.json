@@ -11,19 +11,31 @@
       "date": "April 21",
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8669_small.png",
       "homeName": "Coventry",
-      "isLive": false,
+      "isLive": true,
       "time": "9:00 PM",
       "links":[
     {
      "type": "Vietname [ HD ]",
      "referer": "",
-     "link": ""
+     "link": "https://pull.niur.live/live/stream-9912048_lhd.m3u8?txSecret=c715850c391b54c073ec9b1f8cbc9919&txTime=66256db6"
     },
   
     {
       "type": "Vietnam  [ SD ]",
       "referer": "",
-      "link": ""
+      "link": "https://pull.niur.live/live/stream-9912048_lsd.m3u8?txSecret=9d4a1e9fc83a5823fa777885a44240d2&txTime=66256db6"
+     },
+
+	      {
+     "type": "Vietname 2 [ HD ]",
+     "referer": "",
+     "link": "https://pull.niur.live/live/stream-9912075_lhd.m3u8?txSecret=d03bf7eff2ed84322b50aecd9c73183a&txTime=66256e2e"
+    },
+  
+    {
+      "type": "Vietnam 2 [ SD ]",
+      "referer": "",
+      "link": "https://pull.niur.live/live/stream-9912075_lsd.m3u8?txSecret=717e7d73e0cc0cd8913ec0dd69d815e7&txTime=66256e2e"
      }
                ]
     
